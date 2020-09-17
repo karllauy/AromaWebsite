@@ -41,7 +41,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Home"
-  url = "/post"
+  url = "/"
   weight = 200
 
 [[menu.main]]
@@ -66,28 +66,28 @@ paginate        = 6
 
 ######################################## Deployment Config #############################################
 
-[deployment]
-order = [".jpg$", ".gif$"]
+# [deployment]
+# order = [".jpg$", ".gif$"]
 
-[[deployment.targets]]
-name = "s3Deployment"
-# s3://<bucketName>?region=<bucketRegion>
-URL = "s3://www.aromacoffeehk.com?region=ap-east-1"
+# [[deployment.targets]]
+# name = "s3Deployment"
+# # s3://<bucketName>?region=<bucketRegion>
+# URL = "s3://www.aromacoffeehk.com?region=ap-east-1"
 
-# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-# cloudFrontDistributionID = <ID>
+# # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+# # cloudFrontDistributionID = <ID>
 
-[[deployment.matchers]]
-#  Cache static assets for 1 year.
-pattern = "^.+\\.(js|css|svg|ttf)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = true
+# [[deployment.matchers]]
+# #  Cache static assets for 1 year.
+# pattern = "^.+\\.(js|css|svg|ttf)$"
+# cacheControl = "max-age=31536000, no-transform, public"
+# gzip = true
 
-[[deployment.matchers]]
-pattern = "^.+\\.(png|jpg)$"
-cacheControl = "max-age=31536000, no-transform, public"
-gzip = false
+# [[deployment.matchers]]
+# pattern = "^.+\\.(png|jpg)$"
+# cacheControl = "max-age=31536000, no-transform, public"
+# gzip = false
 
-[[deployment.matchers]]
-pattern = "^.+\\.(html|xml|json)$"
-gzip = true
+# [[deployment.matchers]]
+# pattern = "^.+\\.(html|xml|json)$"
+# gzip = true
