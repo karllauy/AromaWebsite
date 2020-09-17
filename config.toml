@@ -51,12 +51,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "Our Coffee"
-  url = "/categories/product"
+  url = "/product"
   weight = 100
 
 [[menu.main]]
   name = "Blogs"
-  url = "/categories/blog"
+  url = "/blog"
   weight = 99
 
 # [[menu.main]]
