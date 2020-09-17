@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://www.aromacoffeehk.com/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Sep 2020 14:59:01 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.aromacoffeehk.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gesha - The &#39;Chaka&#39; Blend</title>
+      <link>http://www.aromacoffeehk.com/gesha-the-chaka-blend/</link>
+      <pubDate>Wed, 16 Sep 2020 14:59:01 +0800</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/gesha-the-chaka-blend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Science behind Coffee Roasting</title>
+      <link>http://www.aromacoffeehk.com/the-science-behind-coffee-roasting/</link>
+      <pubDate>Wed, 16 Sep 2020 14:45:54 +0800</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/the-science-behind-coffee-roasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Third Wave of Coffee</title>
+      <link>http://www.aromacoffeehk.com/the-third-wave-of-coffee/</link>
+      <pubDate>Wed, 16 Sep 2020 13:51:10 +0800</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/the-third-wave-of-coffee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

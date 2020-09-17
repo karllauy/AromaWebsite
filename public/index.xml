@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://www.aromacoffeehk.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 16 Sep 2020 14:59:01 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.aromacoffeehk.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Passion</title>
+      <link>http://www.aromacoffeehk.com/about/</link>
+      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
+    </item>
+    
+    <item>
+      <title>Gesha - The &#39;Chaka&#39; Blend</title>
+      <link>http://www.aromacoffeehk.com/gesha-the-chaka-blend/</link>
+      <pubDate>Wed, 16 Sep 2020 14:59:01 +0800</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/gesha-the-chaka-blend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Science behind Coffee Roasting</title>
+      <link>http://www.aromacoffeehk.com/the-science-behind-coffee-roasting/</link>
+      <pubDate>Wed, 16 Sep 2020 14:45:54 +0800</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/the-science-behind-coffee-roasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Third Wave of Coffee</title>
+      <link>http://www.aromacoffeehk.com/the-third-wave-of-coffee/</link>
+      <pubDate>Wed, 16 Sep 2020 13:51:10 +0800</pubDate>
+      
+      <guid>http://www.aromacoffeehk.com/the-third-wave-of-coffee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

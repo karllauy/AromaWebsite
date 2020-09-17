@@ -1,0 +1,93 @@
+baseurl         = "http://www.aromacoffeehk.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Aroma Coffee"
+  subtitle    = "Your Coffee Roastery"
+
+  cover       = "cover-photo3.jpg"
+  description = "Coffee Roasting Group"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Liam Kuo"
+  authorAvatar = "profile-picture.jpg"
+  authorLocation = "Hong Kong"
+  authorWebsite = "https://liamkuo.carrd.co/#"
+  authorDescription = "Coder, Coffee Lover, Film Photographer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/post"
+  weight = 200
+
+[[menu.main]]
+  name = "About Us"
+  url = "/about"
+  weight = 100
+
+[[menu.main]]
+  name = "Our Coffee"
+  url = "/categories/product"
+  weight = 100
+
+[[menu.main]]
+  name = "Blogs"
+  url = "/categories/blog"
+  weight = 99
+
+# [[menu.main]]
+#   name = "Google"
+#   url = "https://google.com/"
+#   weight = 95
+
+######################################## Deployment Config #############################################
+
+[deployment]
+order = [".jpg$", ".gif$"]
+
+[[deployment.targets]]
+name = "s3Deployment"
+# s3://<bucketName>?region=<bucketRegion>
+URL = "s3://www.aromacoffeehk.com?region=ap-east-1"
+
+# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+# cloudFrontDistributionID = <ID>
+
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
