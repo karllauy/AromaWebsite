@@ -1,4 +1,4 @@
-baseurl         = "https://www.aromacoffeehk.com"
+baseurl         = "https://reverent-fermi-95df47.netlify.app/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
