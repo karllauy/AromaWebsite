@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://www.aromacoffeehk.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
