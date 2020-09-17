@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Aroma Coffee"
   subtitle    = "Your Coffee Roastery"
 
-  cover       = "cover-photo3.jpg"
+  cover       = "uploads/cover-photo3.jpg"
   description = "Coffee Roasting Group"
   metaDescription = ""
   googleAnalytics = ""
@@ -26,7 +26,7 @@ paginate        = 6
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Liam Kuo"
-  authorAvatar = "profile-picture.jpg"
+  authorAvatar = "uploads/profile-picture.jpg"
   authorLocation = "Hong Kong"
   authorWebsite = "https://liamkuo.carrd.co/#"
   authorDescription = "Coder, Coffee Lover, Film Photographer"
