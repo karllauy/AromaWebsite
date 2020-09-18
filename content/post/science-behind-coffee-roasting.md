@@ -10,6 +10,8 @@ image: uploads/coffee-roasting.jpg
 comments: true
 type: post
 ---
+What's happening to the coffee bean ?\
+\
 Roasting uses heat to trigger chemical reactions within the coffee bean, followed by rapid cooling to stop the process and prevent over-roasting the beans. There are five main stages to the coffee roasting process.
 
 1. Drying or Yellowing
@@ -32,4 +34,7 @@ If the coffee beans continue roasting, they will reach carbonization, or burning
 
 Once the coffee beans have reached the desired roast, rapid cooling is used to stop the chemical reactions and prevent them from over-roasting. The primary methods of cooling are air or water quenching. Air quenching uses fans to cool the beans, while water quenching uses a spray of water, which quickly evaporates.
 
-While freshly roasted coffee shouldn’t be used immediately, as the flavor needs time to set up, the coffee beans should be used within three weeks of roasting for the freshest coffee. Coffee beans will begin to lose their flavor and aroma upon contact with air due to the evaporation of compounds.
+While freshly roasted coffee shouldn’t be used immediately, as the flavor needs time to set up, the coffee beans should be used within three weeks of roasting for the freshest coffee. Coffee beans will begin to lose their flavor and aroma upon contact with air due to the evaporation of compounds.\
+\
+*Disclaimer: This article is not original, it's from* \
+<https://burmancoffee.com/coffee-roasting-etc/science-of-coffee-roasting/>
