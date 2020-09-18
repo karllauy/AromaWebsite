@@ -24,4 +24,4 @@ The rise of the coffee shop and artisanal coffee experience is thriving in most 
 
 Many local coffee shops become a sort of community center for artists and musicians, similar to how coffeehouses started in Europe in the 1700’s, where people discussed ideas and politics. However, this time around, women are welcome and no one smokes inside; two vast improvements on the old model!
 
-First wave was about traditional coffee, mass-produced, made and consumed at home. Second wave was an introduction to more options than just regular diner-type drip coffee. Third wave is about the customer experience in the coffee shop. With increasing experimentation, luxury, and skill, some experts suggest that we are moving into a fourth wave. However, you enjoy your coffee, get on the right track by starting with great quality beans.
+*Disclaimer: This article is not original, It's from here: <https://cafealtura.com/third-wave-coffee/>*
