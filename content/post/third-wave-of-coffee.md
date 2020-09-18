@@ -1,5 +1,5 @@
 ---
-title: The Third Wave of Coffee is Ending
+title: The Third Wave of Coffee
 date: 2020-09-16T13:51:10+08:00
 draft: false
 categories:
@@ -8,7 +8,7 @@ image: uploads/third-wave.jpg
 comments: true
 type: post
 ---
-**Third Wave Coffee**
+What is "The Third Wave of Coffee" ?
 
 The third wave of coffee began in the 1970s and really took off by the end of the 1980s. With the increase in international travel and more awareness about European coffee customs, American coffee shops started to offer an increased variety of espresso drinks, such as the now very common latte, cappuccino, espresso, and all their varieties.
 
