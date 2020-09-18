@@ -5,5 +5,6 @@ draft: false
 image: "uploads/coffee-roasting.jpg"
 categories: ["blog"]
 tags: ["Coffee Roasting"]
+type: post
 ---
 
